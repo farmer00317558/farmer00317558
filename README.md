@@ -3,7 +3,7 @@
 - https://podpodium.app
 - https://mediapodium.app
 
-To be an indie hacker! Progress: **2%** 💪
+💪
 
 <!--
 **farmer00317558/farmer00317558** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
